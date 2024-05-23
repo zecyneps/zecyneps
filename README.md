@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @zecyneps
-- 👀 I’m interested in ...
-- 🌱 I’m curren# 💫 About Me:
+ 💫 About Me:
 METU Stat 2023<br>Student at Yetgen<br>Learning phyton, excel and prompt engineering<br>Contact me: https://www.linkedin.com/in/zeynep-g%C3%B6k%C3%A7e-aba%C5%9F-/<br><br><br>
 
 
