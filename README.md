@@ -19,7 +19,7 @@ METU Stat 2023<br>I'm a student at Yetgen<br>I'm learning phyton, excel and prom
 ---
 [![](https://visitcount.itsvg.in/api?id=zecyneps&icon=0&color=10)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->tly learning ...
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!---
 zecyneps/zecyneps is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
