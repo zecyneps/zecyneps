@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zecyneps
  💫 About Me:
-METU Stat 2023<br>I'm a student at Yetgen<br>I'm learning phyton, excel and prompt engineering<br>Contact me: https://www.linkedin.com/in/zeynep-g%C3%B6k%C3%A7e-aba%C5%9F-/<br><br><br>
+METU Stat 2023<br>I'm a student at Yetgen<br>I'm learning phyton for data science, excel, SQL, R<br>Contact me: https://www.linkedin.com/in/zeynep-g%C3%B6k%C3%A7e-aba%C5%9F-/<br><br><br>
 
 
 ## 🌐 Socials:
